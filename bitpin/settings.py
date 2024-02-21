@@ -41,7 +41,7 @@ DEFAULT_APPS = [
 ]
 
 LOCAL_APPS = [
-    'user_management'
+    'blog'
 ]
 
 THIRD_PARTY_APPS = [
